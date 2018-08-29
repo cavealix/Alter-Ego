@@ -5,11 +5,11 @@
         "en-US": {
           "summary": "Sample Short Description",
           "examplePhrases": [
-            "Alexa open hello world",
-            "Alexa tell hello world hello",
-            "Alexa ask hello world say hello"
+            "Alexa open alter ego",
+            "Alexa start alter ego hello",
+            "Alexa begin alter ego"
           ],
-          "name": "alter ego",
+          "name": "alter-ego",
           "description": "Sample Full Description"
         }
       },

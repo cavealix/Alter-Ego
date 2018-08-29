@@ -1,7 +1,7 @@
 {
   "deploy_settings": {
     "default": {
-      "skill_id": "amzn1.ask.skill.1ff9ddd7-2211-41ea-ba92-b6ca0e4aa256",
+      "skill_id": "amzn1.ask.skill.64b7d62b-bfbb-46ec-b55e-418d8c26960a",
       "was_cloned": false,
       "merge": {
         "manifest": {
@@ -16,22 +16,22 @@
       },
       "resources": {
         "manifest": {
-          "eTag": "d0ba2aca4214a6257a72b69b8b77e385"
+          "eTag": "a3dc8004fe827b967277649173b47885"
         },
         "interactionModel": {
           "en-US": {
-            "eTag": "b021c8f083e4b579918c0a9dfcc832e4"
+            "eTag": "6112e9342540ece01ff9bf8edf73bb6e"
           }
         },
         "lambda": [
           {
             "arn": "arn:aws:lambda:us-east-1:733289811375:function:ask-custom-alter-ego-default",
-            "functionName": "ask-custom-alter-ego-default",
+            "functionName": "arn:aws:lambda:us-east-1:733289811375:function:ask-custom-alter-ego-default",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "bbfad2c6-4b90-417a-85a3-b077663dc6be"
+            "revisionId": "3e8b9228-e386-481c-ac08-e1b169ee43d0"
           }
         ]
       }
