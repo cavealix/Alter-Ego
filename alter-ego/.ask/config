@@ -16,22 +16,22 @@
       },
       "resources": {
         "manifest": {
-          "eTag": "d0ba2aca4214a6257a72b69b8b77e385"
+          "eTag": "67c38d834b702e562f472a9bae81658c"
         },
         "interactionModel": {
           "en-US": {
-            "eTag": "b021c8f083e4b579918c0a9dfcc832e4"
+            "eTag": "b3db7572ea88eba47f8f066061e510c1"
           }
         },
         "lambda": [
           {
             "arn": "arn:aws:lambda:us-east-1:733289811375:function:ask-custom-alter-ego-default",
-            "functionName": "ask-custom-alter-ego-default",
+            "functionName": "arn:aws:lambda:us-east-1:733289811375:function:ask-custom-alter-ego-default",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "bbfad2c6-4b90-417a-85a3-b077663dc6be"
+            "revisionId": "b283b622-769b-4a6e-bc21-d198805e1e42"
           }
         ]
       }

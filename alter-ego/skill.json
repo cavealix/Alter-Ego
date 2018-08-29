@@ -3,14 +3,14 @@
     "publishingInformation": {
       "locales": {
         "en-US": {
-          "summary": "Sample Short Description",
+          "summary": "Companion skill for Alter Ego in San Antonio, Texas.",
           "examplePhrases": [
-            "Alexa open hello world",
-            "Alexa tell hello world hello",
-            "Alexa ask hello world say hello"
+            "Alexa open alter ego",
+            "Alexa start alter ego",
+            "Alexa commence alter ego"
           ],
           "name": "alter ego",
-          "description": "Sample Full Description"
+          "description": "This skill provides workout routines developed by the Alter Ego team and was developed by Alix Cave."
         }
       },
       "isAvailableWorldwide": true,

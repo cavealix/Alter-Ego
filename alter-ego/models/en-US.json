@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "greeter",
+      "invocationName": "alter ego",
       "types": [
 
       ],
@@ -30,9 +30,10 @@
 
           ],
           "samples": [
-            "hello",
-            "say hello",
-            "say hello world"
+            "quick workout",
+            "leg day",
+            "back day",
+            "chest day"
           ]
         }
       ]
